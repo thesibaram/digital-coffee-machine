@@ -18,6 +18,7 @@
 ---
 
 ### 📸 Demo
+[demo/CoffeeMachine_OOP_Demo.mp4](https://github.com/user-attachments/assets/f71e5941-9f23-453c-8b2d-b5608d812710)
 
 ---
 
@@ -49,9 +50,10 @@ coffee-machine-oop/
 │   └── CoffeeMachine_OOP_Demo.mp4
 │
 └── .gitattributes
+
 ---
 
-# 🚀 Features
+###🚀 Features
 
 - 🔸 Object-Oriented Python architecture
 - 🔸 Bold UI using `colorama`
