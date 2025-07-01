@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Features
+###🚀 Features
 
 - 🔸 Object-Oriented Python architecture
 - 🔸 Bold UI using `colorama`
@@ -17,12 +17,13 @@
 
 ---
 
-### 📸 Demo
+###📸 Demo
+
 [demo/CoffeeMachine_OOP_Demo.mp4](https://github.com/user-attachments/assets/f71e5941-9f23-453c-8b2d-b5608d812710)
 
 ---
 
-### 🗂️ Project Structure
+###🗂️ Project Structure
 
 ```bash
 coffee-machine-oop/
@@ -53,14 +54,12 @@ coffee-machine-oop/
 
 ---
 
-###🚀 Features
+###🧠 How It Works
 
-- 🔸 Object-Oriented Python architecture
-- 🔸 Bold UI using `colorama`
-- 🔸 ASCII Art welcome banner
-- 🔸 Neon Loader animation
-- 🔸 Menu with pricing and real-time feedback
-- 🔸 Payment handling with coin simulation
-- 🔸 Resource tracking and machine report
-- 🔸 Extensible and GitHub-friendly file structure
+1. You enter the name of the city you grew up in. `(e.g. Dlehi)`
+2. You enter your pet’s name.`(e.g. Roxy)`
+3. It generates a band name like `DELHI ROXY` with colorful formatting and a cowsay cow.
+
 ---
+
+
